@@ -212,6 +212,19 @@ main {
 }
 /*sponsers End*/
 
+/*footer Start*/
+.footer-container {
+    border-radius: 8px;
+    background: #FFF4E7;
+    max-width: 1440px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 210px;
+}
+
 /*Responsive media queries*/
 
 /*Mobile devices*/
